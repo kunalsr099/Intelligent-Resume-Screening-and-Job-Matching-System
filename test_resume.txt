@@ -1,0 +1,13 @@
+John Doe
+Software Engineer
+
+Experience:
+- 5 years of Java development
+- 3 years of React experience
+- Strong SQL skills
+
+Skills:
+Java, React, SQL, Spring Boot, JavaScript, Python, Docker
+
+Education:
+Bachelor of Science in Computer Science
